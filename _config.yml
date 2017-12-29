@@ -1,26 +1,26 @@
 # Site settings
 title: My Territory
-default_author: Shikher Verma
-description: "Online Territory of Shikher Verma"  # used in site head
+default_author: Upendra Pratap Kushwaha
+description: "Online Territory of Upendra Pratap Kushwaha"  # used in site head
 
 # register on google analytics and replace this token
-google_analytics: UA-75681059-1
+google_analytics: UA-76016934-2
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
-disqus_url: shikherverma.com
-disqus_id: shikherverma
+disqus_url: upendra.tech
+disqus_id: upendra-tech
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
-feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wannabe&amp;loc=en_US
+feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=UpendraPratapKushwaha&amp;loc=en_US
 
 # footer details. Deleting the value would remove it from footer.
-github_username:  shikherverma
-facebook_username:  shikherverma42
-email: root@shikherverma.com
-stackoverflow_username: 6764571/shikher-verma
-twitter_username : shikherverma42
-linkedin_username : shikherverma42
-keybase_username : shikherverma
-copyright_name: Shikher Verma
+github_username:  upendra243
+facebook_username:  upendra243
+email: root@upendra.tech
+stackoverflow_username: 3340491/upendra243
+twitter_username : upi653
+linkedin_username : upendra243
+keybase_username : upendra243
+copyright_name: Upendra Pratap Kushwaha
 rss : true
 
 # used for portfolio on home page
