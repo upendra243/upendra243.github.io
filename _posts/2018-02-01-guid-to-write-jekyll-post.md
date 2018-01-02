@@ -1,6 +1,7 @@
 ---
 layout: post
 title : Write your first jekyll post
+description : How to write Jekyll markdown post
 subtitle : "A markdown guide to write post using jekyll"
 date: 2018-01-01 13:16:00
 author: "Upendra Pratap Kushwaha"
