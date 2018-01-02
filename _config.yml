@@ -12,6 +12,10 @@ disqus_id: upendra-tech
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
 feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=UpendraPratapKushwaha&amp;loc=en_US
 
+# skype Chat
+skypeid: upi653 # if want to remove skype chat , remove this setting
+
+
 # footer details. Deleting the value would remove it from footer.
 github_username:  upendra243
 facebook_username:  upendra243
