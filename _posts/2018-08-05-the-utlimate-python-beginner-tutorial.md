@@ -7,7 +7,7 @@ date: 2018-08-05 12:42:01
 author: "Upendra Pratap Kushwaha"
 header-img: "img/posts/exam-bg.jpeg"
 comments: true
-tags: [Python]
+tags: [CodeMonkey]
 ---
 
 #Introductions
